@@ -26,6 +26,8 @@ My name is Ignasi Garcia, Java developer and Gamer.
       -->
    </p>
 
+---
+
 
 #### Pronouns
 
@@ -33,6 +35,8 @@ My name is Ignasi Garcia, Java developer and Gamer.
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/theythem.svg" />
    </p>
+
+---
 
 
 #### Working with
@@ -59,6 +63,8 @@ My name is Ignasi Garcia, Java developer and Gamer.
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
    </p>
 
+---
+
 
 #### Doing
 
@@ -68,6 +74,8 @@ My name is Ignasi Garcia, Java developer and Gamer.
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" />
    </p>
+
+---
 
 
 #### Using
@@ -90,3 +98,43 @@ My name is Ignasi Garcia, Java developer and Gamer.
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
    </p>
 
+---
+
+
+#### Professional accounts
+
+   <p>
+      <a href="https://www.linkedin.com/in/ignasi-garc%C3%ADa/" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" />
+      </a>
+      <a href="https://www.meetup.com/es-ES/members/221947547/" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/meetup.svg" />
+      </a>
+      <a href="https://twitter.com/igngaf" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" />
+      </a>
+      <a href="https://stackexchange.com/users/10106135/mresdin" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/stackoverflow.svg" />
+      </a>
+   </p>
+
+
+#### Social accounts
+
+   <p>
+      <a href="https://www.instagram.com/mresdin/" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" />
+      </a>
+      <a href="https://steamcommunity.com/id/mresdin/" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" />
+      </a>
+      <a href="https://www.tiktok.com/@mresdin" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/tiktok.svg" />
+      </a>
+      <a href="https://twitter.com/mresdin" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" />
+      </a>
+      <a href="https://www.twitch.tv/mresdin" target="_blank">
+         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/streaming/twitch.svg" />
+      </a>
+   </p>
